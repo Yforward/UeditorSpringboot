@@ -1,2 +1,1 @@
-# UeditorSpringboot
-this is ueditor controller demo project.
+百度编辑器后台部分
